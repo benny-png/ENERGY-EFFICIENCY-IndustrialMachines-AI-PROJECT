@@ -1,7 +1,7 @@
 
 ---
 
-# Energy Efficiency Industrial Machines AI Project
+# Energy Efficiency Industrial Machines AI Project ⚡
 
 This project focuses on enhancing energy efficiency in industrial environments through advanced machine detection using YOLOv8. The system integrates sensors for real-time analysis and Augmented Reality (AR) for visual representation.
 
