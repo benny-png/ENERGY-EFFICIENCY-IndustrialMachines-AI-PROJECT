@@ -89,7 +89,7 @@ The dataset used for training is hosted on Roboflow and includes images for trai
 
 4. **Develop the GUI** (Future Work):
 
-   - Use of PYQT5 is in progress (hopefully might share) `pyqt.py` to create a testing interface for interacting with the detection results and implementing AR features.
+   - Use of PYQT5 and Java app is in progress (hopefully might share) `pyqt.py` to create a testing interface for interacting with the detection results and implementing AR features.
 
 ## License
 
