@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['motor', 'operador', 'plc', 'robot']
+
+roboflow:
+  workspace: objectdetection-lqlxr
+  project: deteccion-de-objetos-r3lcr
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/objectdetection-lqlxr/deteccion-de-objetos-r3lcr/dataset/2
