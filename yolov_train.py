@@ -5,7 +5,7 @@ model = YOLO('yolov8n.pt')
  
 # Training.
 results = model.train(
-   data='pothole_v8.yaml',
+   data='industrial_data/data.yaml',
    imgsz=1280,
    epochs=50,
    batch=8,
